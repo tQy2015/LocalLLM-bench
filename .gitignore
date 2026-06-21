@@ -1,0 +1,50 @@
+# Internal / AI tooling
+CLAUDE.md
+STATE.md
+src/.claude/
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Unpublished research plans and analysis
+docs/hypothesis_specification.md
+docs/test_plans/
+docs/paper_outline_v1.md
+docs/paper_outline_v2.md
+docs/analysis_v12_semantic_attractors.md
+docs/reports/
+
+# Logs
+logs/
+
+# Models (large binary)
+models/
+
+# Papers (copyright)
+papers/
+
+# Results: exclude all except paper-referenced files
+results/*
+!results/v23D_hf_20260608_142028.csv
+!results/v23D2_hf_20260609_142919.csv
+!results/hcddemo_20260601_072255.txt
+!results/c5_cudagraph_A_eager_OFF_tqy_20260620_010310.csv
+!results/c5_cudagraph_B_eager_ON_tqy_20260620_010310.csv
+
+# Temp files
+*.tmp.*
+scripts/*.tmp.*
+
+# Archive (historical / internal)
+archive/
+src/archive/
+docs/archive/
+
+# src: exclude all except paper-reproducible scripts
+src/*
+!src/hcddemo.py
+!src/benchmark_v23d_hf.py
+!src/c5_cudagraph_ab.py

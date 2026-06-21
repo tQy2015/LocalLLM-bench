@@ -1,0 +1,561 @@
+﻿timestamp,experiment,hostname,gpu,vllm_ver,condition,enforce_eager,batch_size,temperature,model,tc_id,tc_name,run,elapsed_sec,reply_len,finish,reply_hash,reply,status
+2026-06-20 01:09:17,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,1,2.877,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:19,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,2,2.406,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:22,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,3,2.472,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:24,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,4,2.465,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:27,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,5,2.441,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:29,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,6,2.357,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:32,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,7,2.363,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:34,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,8,2.354,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:36,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,9,2.353,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:39,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,10,2.349,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:41,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,11,2.35,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:43,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,12,2.336,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:46,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,13,2.341,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:48,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,14,2.353,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:50,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,15,2.35,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:53,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,16,2.349,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:55,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,17,2.355,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:09:57,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,18,2.35,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:10:00,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,19,2.347,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:10:02,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,20,2.347,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:10:10,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,1,7.544,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:10:17,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,2,7.385,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:10:25,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,3,7.566,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:10:32,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,4,7.541,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:10:39,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,5,7.392,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:10:47,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,6,7.365,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:10:54,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,7,7.383,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:02,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,8,7.376,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:09,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,9,7.373,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:16,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,10,7.395,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:24,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,11,7.381,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:31,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,12,7.372,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:39,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,13,7.407,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:46,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,14,7.389,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:11:53,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,15,7.411,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:12:01,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,16,7.365,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:12:08,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,17,7.38,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:12:15,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,18,7.387,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:12:23,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,19,7.388,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:12:30,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,1,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,20,7.367,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:12:33,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,1,2.76,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:36,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,2,2.811,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:38,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,3,2.636,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:41,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,4,2.542,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:43,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,5,2.487,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:46,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,6,2.471,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:48,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,7,2.472,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:51,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,8,2.464,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:53,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,9,2.475,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:56,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,10,2.462,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:12:58,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,11,2.454,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:01,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,12,2.592,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:03,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,13,2.455,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:06,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,14,2.434,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:08,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,15,2.525,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:11,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,16,2.367,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:13,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,17,2.391,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:15,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,18,2.381,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:18,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,19,2.381,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:20,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,CR2,素数と詩,20,2.375,149,stop,51feec62b017ab01,"選んだ素数は、13です。
+
+十三の光，夜の守り手
+暗闇に照らし、心を温める
+無限の数の一部
+静かに存在し、輝く
+
+十三は孤独でもあり、
+しかし、その孤独が強さを増す
+それは、他の数とは異なる
+特別な存在である
+
+この詩は、13という素数の特性や、その数値が持つ神秘性や独特な雰囲気を表現しています。",OK
+2026-06-20 01:13:28,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,1,7.413,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:13:35,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,2,7.315,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:13:42,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,3,7.437,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:13:50,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,4,7.478,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:13:57,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,5,7.276,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:04,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,6,7.266,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:12,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,7,7.286,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:19,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,8,7.541,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:27,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,9,7.451,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:34,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,10,7.268,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:41,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,11,7.278,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:48,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,12,7.271,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:14:56,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,13,7.305,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:15:03,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,14,7.301,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:15:10,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,15,7.271,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:15:18,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,16,7.279,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:15:25,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,17,7.289,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:15:32,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,18,7.303,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:15:39,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,19,7.278,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
+2026-06-20 01:15:47,c5_cudagraph_ab,tqy-OMEN-by-HP-Obelisk-Desktop-875-1xxx,NVIDIA GeForce RTX 2080 Ti,0.22.0,B_eager_ON,True,16,0.0,Qwen/Qwen2.5-3B-Instruct,FY,Feynman,20,7.268,1896,stop,69852e6f24a6199a,Richard Phillips Feynman was an American physicist known for his work in the physics of the atomic nucleus and particle interactions through quantum field theory. He was a professor at the California Institute of Technology (Caltech) and is widely regarded as one of the greatest physicists of the 20,OK
