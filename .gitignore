@@ -48,3 +48,4 @@ src/*
 !src/hcddemo.py
 !src/benchmark_v23d_hf.py
 !src/c5_cudagraph_ab.py
+README_INTERNAL.md
