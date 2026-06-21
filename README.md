@@ -47,10 +47,14 @@ LocalLLM-bench/
 
 ## 実行環境
 
-- GPU: RTX 2080 Ti 11GB (sm_75)
-- モデル: `Qwen/Qwen2.5-3B-Instruct` fp16
-- 推論: transformers（HuggingFace直接）+ vLLM（logprobs取得）
-- Python環境: conda / transformers / accelerate / vllm
+| マシン | GPU | アーキ | VRAM | 推論エンジン | 用途 |
+|---|---|---|---|---|---|
+| Desktop (OMEN) | RTX 2080 Ti | Turing / sm_75 | 11GB | vLLM + HF | 正典環境・表層/深層実験 |
+| Workstation (HP Z240) | Quadro M4000 | Maxwell / sm_52 | 8GB | HF direct のみ | Logit Lens・ε測定 |
+| Laptop | RTX 3050 Ti | Ampere / sm_86 | 4GB | vLLM（AWQ） | クロスアーキ検証（補助） |
+
+- モデル: `Qwen/Qwen2.5-3B-Instruct` fp16（正典）/ AWQ（Ampere補助）
+- Python: conda / transformers / accelerate / vllm
 
 詳細: `docs/inference_engine_deps_2080ti.md`
 
