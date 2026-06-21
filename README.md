@@ -1,48 +1,42 @@
-# LocalLLM-bench: Semantic Attractor 研究
+# LocalLLM-bench: 表層/深層解離の定量化
 
-Qwen2.5-3B-Instruct（fp16）を対象に、LLMがオープン選択課題において**どのように概念を決定するか**を Logit Lens で層別に解析する実験プロジェクト。
+Qwen2.5-3B-Instruct（fp16）を対象に、LLMの生成における**表層（全文hash）と深層（概念選択）の解離**を定量化する実験プロジェクト。
 
 ## 中核的問い
 
-> 「何を選ぶか」ではなく「どのように選ぶか」——決定プロセスの層構造
+> 同一プロンプトへの出力が run 間で変動するとき、「何を書くか（概念）」は安定し「どう書くか（全文）」だけが揺れているのか？
 
-## 主要発見（v21 時点）
+## 主要発見
 
-- **TRGL中間収束**: 自由選択時に最終概念確定より15〜20層前に属性トークンが出現
-- **自由選択 vs 固定選択**: TRGLは自由選択固有、固定条件では消失 → 選択探索プロセスの一部
-- **フレーム効果**: 確信度（P値）を変調するが結晶化タイミングは変えない
-- **JA/EN非対称**: JA=四面体（高強度）、EN=icosahedron（一極集中）→ 訓練データ分布の反映
+- **表層/深層の完全解離（CR2）**: 素数選択は1000/1000で「13」に収束（深層安定）、全文hash は 345+ 種（表層発散）
+- **双安定アトラクター（CR4）**: 正多面体選択は四面体 ~62% / 十二面体 ~38% の離散basin — 単一トークン差で分岐
+- **温度依存性**: temp=0 では GPU/FP 非再現性由来の表層揺れが残存（He 2025 再現）、temp>0 では両層ともに拡散
 
-## ディレクトリ構成
+## 公開ファイル構成
 
 ```
 LocalLLM-bench/
 ├── src/
-│   ├── benchmark_v20.py    現役: known_attractor除去版（12条件）
-│   ├── benchmark_v21.py    現役: 自由選択vs固定比較（36条件）
-│   ├── benchmark_v11〜v19  参照用（アーカイブ前の旧版）
-│   └── archive/            v9以前・非番号系スクリプト
+│   ├── hcddemo.py              温度別 hash/概念収束測定（Table 2 データ生成）
+│   ├── benchmark_v23d_hf.py    1000run 大規模再現性測定（HuggingFace直接）
+│   └── c5_cudagraph_ab.py      CUDAグラフ有無による表層変動比較
 │
 ├── results/
-│   ├── v20_*.csv           v20実験結果
-│   ├── v21_*.csv           v21実験結果（Exp A/B/combined）
-│   ├── v11〜v19系 CSV      参照用結果
-│   └── archive/            v9以前・ハードウェアベンチ系
+│   ├── hcddemo_20260601_072255.txt          温度別測定ログ（CR2/CR4/FY）
+│   ├── v23D_hf_20260608_142028.csv          CR2/CR4 各500run（TEMP=0.1）
+│   ├── v23D2_hf_20260609_142919.csv         CR2/CR4 各500run（TEMP=0.1, run2）
+│   ├── c5_cudagraph_A_eager_OFF_*.csv       CUDAグラフOFF条件
+│   └── c5_cudagraph_B_eager_ON_*.csv        CUDAグラフON条件
 │
 ├── docs/
-│   ├── paper_outline_v1.md      論文アウトライン
 │   ├── references.md            参考文献リスト
-│   ├── hypothesis_specification.md  仮説定義
-│   ├── test_cases_master.md     TCマスターリスト
-│   ├── analysis_v12_semantic_attractors.md  v12主要分析
-│   ├── inference_engine_deps_2080ti.md      環境依存事項
-│   ├── test_plans/              実験計画書（v11以降）
-│   ├── reports/                 実験サマリー（v10以降）
-│   └── archive/                 旧計画・雑多ドキュメント
+│   ├── test_cases_master.md     テストケース定義（TC/GN/CR/SA/FY系）
+│   ├── inference_engine_deps_2080ti.md  推論エンジン依存事項
+│   └── ACKNOWLEDGMENTS.md
 │
-├── papers/                  参考論文PDF
-├── models/                  モデルファイル
-└── archive/                 v4以前スクリプト
+└── scripts/
+    ├── run_vllm_server.sh       vLLM サーバ起動スクリプト（Linux）
+    └── run_vllm_server.bat      vLLM サーバ起動スクリプト（Windows）
 ```
 
 ## 実行環境
@@ -57,14 +51,6 @@ LocalLLM-bench/
 - Python: conda / transformers / accelerate / vllm
 
 詳細: `docs/inference_engine_deps_2080ti.md`
-
-## 次実験候補（v22）
-
-| 実験 | 目的 |
-|---|---|
-| Semantic Heating | TRGL層への摂動 → 因果証明 |
-| CR2 固定 vs 自由 | 素数「素」中間収束の検証 |
-| 他モデル再現 | Llama-3.2-3B で TRGL 類似現象確認 |
 
 ## 関連ドキュメント
 
