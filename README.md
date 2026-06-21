@@ -68,7 +68,6 @@ LocalLLM-bench/
 
 ## 関連ドキュメント
 
-- 論文アウトライン: `docs/paper_outline_v1.md`
 - 参考文献: `docs/references.md`
-- 計測エラータ: `docs/reports/MEASUREMENT_ERRATA.md`
-- 最新実験計画: `docs/test_plans/test_plan_v21_decision_process.md`
+- テストケース定義: `docs/test_cases_master.md`
+- 推論エンジン依存事項: `docs/inference_engine_deps_2080ti.md`
