@@ -1,6 +1,6 @@
 # 参考文献リスト
 
-**管理日:** 2026-06-20  
+**管理日:** 2026-06-21  
 **プロジェクト:** LocalLLM-bench / Semantic Attractor 研究
 
 ---
@@ -31,7 +31,7 @@
 - **本研究との関係:** 手法の適用範囲の参照
 
 ### A4. Token Prediction Refinement
-- **著者:** （著者未確認）
+- **著者:** Kongmanee, Jaturong
 - **年:** 2025
 - **arXiv:** 2501.15054
 - **URL:** https://arxiv.org/abs/2501.15054
@@ -74,7 +74,7 @@
 - **本研究との関係:** 動的システム視点の理論的背景。本研究の「Silent Phase → 属性収束 → 概念結晶化」の解釈フレームと整合
 
 ### C3. Identity as Attractor
-- **著者:** （著者未確認）
+- **著者:** Vasilenko, Vladimir
 - **年:** 2026
 - **arXiv:** 2604.12016
 - **URL:** https://arxiv.org/abs/2604.12016
@@ -97,7 +97,7 @@
 ## D. Semantic Interpretability の限界
 
 ### D1. LLMs Explain't
-- **著者:** （著者未確認）
+- **著者:** Abdelhalim, Alhassan; Edinger, Janick; Laue, Sören; Regneri, Michaela
 - **年:** 2026
 - **arXiv:** 2601.22928
 - **URL:** https://arxiv.org/abs/2601.22928
@@ -109,7 +109,7 @@
 ## E. Representation Collapse・情報過圧縮
 
 ### E1. Transformers need glasses
-- **著者:** （著者未確認）
+- **著者:** Barbero, Federico; Banino, Andrea; Kapturowski, Steven; Kumaran, Dharshan; Araújo, João G.M.; Vitvitskyi, Alex; Pascanu, Razvan; Veličković, Petar
 - **年:** 2024
 - **arXiv:** 2406.04267
 - **URL:** https://arxiv.org/abs/2406.04267
@@ -117,7 +117,7 @@
 - **本研究との関係:** 深層での representation collapse の理論的背景
 
 ### E2. Transformer Representation Capacity
-- **著者:** （著者未確認）
+- **著者:** Gerasimov, Gleb; Aksenov, Yaroslav; Balagansky, Nikita; Sinii, Viacheslav; Gavrilov, Daniil
 - **年:** 2025
 - **arXiv:** 2502.09245
 - **URL:** https://arxiv.org/abs/2502.09245
@@ -129,7 +129,7 @@
 ## F. Mechanistic Interpretability 全般
 
 ### F1. Practical Review of Mechanistic Interpretability
-- **著者:** （著者未確認）
+- **著者:** Rai, Daking; Zhou, Yilun; Feng, Shi; Saparov, Abulhair; Yao, Ziyu
 - **年:** 2024
 - **arXiv:** 2407.02646
 - **URL:** https://arxiv.org/abs/2407.02646
@@ -137,8 +137,8 @@
 - **本研究との関係:** 研究領域の位置付け
 
 ### F2. Developmental Interpretability Review
-- **著者:** （著者未確認）
-- **年:** 2025（2025-08 以降）
+- **著者:** Kendiukhov, Ihor
+- **年:** 2025（2025-08-19 投稿）
 - **arXiv:** 2508.15841
 - **URL:** https://arxiv.org/abs/2508.15841
 - **概要:** LLM の Developmental Interpretability レビュー
@@ -149,7 +149,7 @@
 ## G. 温度制御・Attention
 
 ### G1. Selective Attention
-- **著者:** （著者未確認）
+- **著者:** Zhang, Xuechen; Chang, Xiangyu; Li, Mingchen; Roy-Chowdhury, Amit; Chen, Jiasi; Oymak, Samet
 - **年:** 2024
 - **arXiv:** 2411.12892
 - **URL:** https://arxiv.org/abs/2411.12892
@@ -171,13 +171,13 @@
   - 本研究の C-0.6b（fp16 2ulp タイ破り）は He 機構の最小実例の精密化
 
 ### I2. 非決定性の prefix-tree／臨界決定点フレーム
-- **著者:** （He 派生・複数, 2025-2026）
-- **参考:** arXiv:2511.20621 (DiFR) / arXiv:2511.02620 ほか
+- **著者:** Karvonen, Adam et al.（DiFR: arXiv:2511.20621）
+- **参考:** arXiv:2511.20621 (DiFR: Karvonen, Reuter, Rinberg, Marks, Garriga-Alonso, Warr) / arXiv:2511.02620 ほか
 - **概要:** 同一プロンプトへの複数応答をトークン単位の prefix tree で可視化。fork point（プレフィックス共有から分岐する点）で非決定を定量化。経験的に **約 95% のノードが単一子・5% が二分岐・0.2% が高次分岐**＝「大半は決定的・臨界決定点のみ揺れる」パターン
 - **本研究との関係:** 本研究の「冒頭一致・後方 fork」「離散 basin 分岐」はこの既知パターンの再観測。論文では「表層 fork 構造は既知」と明記し、貢献を**深層との解離の定量化**に絞ること
 
 ### I3. Non-Determinism of "Deterministic" LLM Settings
-- **著者:** （著者未確認）
+- **著者:** Atil, Berk et al.（全13名）
 - **年:** 2024
 - **arXiv:** 2408.04667
 - **URL:** https://arxiv.org/html/2408.04667v5
@@ -185,7 +185,7 @@
 - **本研究との関係:** 表層非決定の実務的影響の参照
 
 ### I4. LLMs Show Surface-Form Brittleness Under Paraphrase Stress Tests
-- **著者:** （著者未確認）
+- **著者:** Navarro Carranza, Juan Miguel
 - **年:** 2025
 - **arXiv:** 2510.08616
 - **URL:** https://arxiv.org/pdf/2510.08616
