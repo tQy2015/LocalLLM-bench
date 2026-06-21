@@ -906,6 +906,17 @@ Claude Code CLI / Gemini CLI はAPIコールが完全に独立したステート
 | **v6** | `benchmark_v6_vllm.py` | WSL2 / RTX 3050 Ti 4GB / vLLM 0.21.0 | TC1-5 | 20 | normal + deterministic | temp=0.0 / 0.1 各条件 |
 | **v7** | `benchmark_claudecode_sample.py` | WSL2 / Claude Code CLI | TC1-5 + GN1-6 + CR1-7 | 3 | ステートレス | $1.71 / 深層収束発見 |
 | **v8** | `benchmark_gemini_v8.py` | WSL2 / Gemini CLI | TC1-5 + GN1-6 + CR1-7 | 3 | ステートレス | rate制限 15req/min |
+| **v9〜v10** | `benchmark_v9_vllm.py` 他 | Ubuntu / RTX 2080 Ti / vLLM | SA系32TC | 5〜10 | vLLM greedy | SA p値初期測定 |
+| **v11〜v13** | `benchmark_v11〜v13.py` | Ubuntu / RTX 2080 Ti / vLLM | SA系32TC | 10〜30 | temp=0.0/0.1 | JA/EN分離・logprobs取得開始 |
+| **v15** | `benchmark_v15.py` | RTX 2080 Ti / vLLM | SA系32TC | 100 | AWQ vs fp16比較 | 量子化影響確認（AWQ→fp16 移行判断） |
+| **v16** | `benchmark_v16.py` | RTX 2080 Ti / vLLM | SA系32TC | 100 | Qwen2.5-3B-AWQ | **p値正典**（AWQ・2026-05-27） |
+| **v17** | `benchmark_v17.py` | RTX 2080 Ti / vLLM | SA-PH中心 | 50〜100 | fp16・Logit Lens + Heating | TRGL発見・結晶化タイミング確認 |
+| **v19〜v21** | `benchmark_v19〜v21.py` | RTX 2080 Ti / vLLM | SA系・CR2/CR4 | 100〜500 | 自由選択 vs 固定比較 | フレーム効果・JA/EN非対称確認 |
+| **hcddemo** ✅ | `src/hcddemo.py` | RTX 2080 Ti / vLLM / fp16 | CR2・CR4・FY | 10 × 8温度 | TEMPS=[0.0〜1.5] seed=42固定 | **Table 2データ生成**（HCD2026論文） |
+| **v23D** ✅ | `src/benchmark_v23d_hf.py` | RTX 2080 Ti / HF直接 / fp16 | CR2・CR4 | 500 | temp=0.1 bs=1 | **1000run 大規模再現性**（v23D + v23D2） |
+| **C5** ✅ | `src/c5_cudagraph_ab.py` | RTX 2080 Ti / vLLM / fp16 | CR2・CR4・FY | 500 | A: CUDAグラフON / B: OFF temp=0.0 bs=[1,16] | **CUDAグラフ寄与の分離測定** |
+
+✅ = 公開スクリプト
 
 ### モード別セッション管理まとめ
 
@@ -922,3 +933,4 @@ Claude Code CLI / Gemini CLI はAPIコールが完全に独立したステート
 *参照: test_plan_v6_deterministic.md, experiment_v4_summary.md, experiment_v5_summary.md*
 *更新: 2026-05-23 — 実行モード仕様 + v1〜v8パラメータ一覧追加*
 *更新: 2026-05-28 — SA系32TC追加（v9〜v17 Semantic Attractor実験群）、実験実績サマリー拡張*
+*更新: 2026-06-21 — v9〜C5パラメータ追加、TC1〜TC5入力テキスト全文記載、FY系セクション新設*
